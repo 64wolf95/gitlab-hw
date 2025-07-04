@@ -41,4 +41,6 @@
 
 ### Задание 3
 
-`https://github.com/64wolf95/git-01/network`
+![Скриншот 8-3](screenshots/8-3.png)
+![Скриншот 8-3.1](screenshots/8-3.1.png)
+![Скриншот 8-3.2](screenshots/8-3.2.png)
