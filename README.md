@@ -24,13 +24,18 @@
 
 ### Задание 1
 
-`https://github.com/64wolf95/git-01/commit/0d75835cc282722928e5e05db578235d3475ac4f`
+![Скриншот 8-1](screenshots/8-1.png)
+![Скриншот 8-1.1](screenshots/8-1.1.png)
+![Скриншот 8-1.2](screenshots/8-1.2.png)
+![Скриншот 8-1.3](screenshots/8-1.3.png)
 
 ---
 
 ### Задание 2
 
-`https://github.com/64wolf95/git-01/commit/5dc164e8ec8667b539a7e97878c3c9dc02c7c7e7`
+![Скриншот 8-2](screenshots/8-2.png)
+![Скриншот 8-2.1](screenshots/8-2.1.png)
+![Скриншот 8-2.3](screenshots/8-2.3.png)
 
 ---
 
