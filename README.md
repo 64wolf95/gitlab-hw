@@ -38,9 +38,9 @@
 ### Решение
 
 ![Скриншот 8-03_1](screenshots/8-03_1.png)
-![Скриншот 8-03.2](screenshots/8-03.2.png)
-![Скриншот 8-03.3](screenshots/8-03.3.png)
-![Скриншот 8-03.4](screenshots/8-03.4.png)
+![Скриншот 8-03_2](screenshots/8-03_2.png)
+![Скриншот 8-03_3](screenshots/8-03_3.png)
+![Скриншот 8-03_4](screenshots/8-03_4.png)
 
 *wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_6.0+debian11_all.deb*  
 *dpkg -i zabbix-release_latest_6.0+debian11_all.deb*  
@@ -72,11 +72,11 @@
 
 ### Решение
 
-![Скриншот 8-03.5](screenshots/8-03.5.png)
-![Скриншот 8-03.6](screenshots/8-03.6.png)
-![Скриншот 8-03.7](screenshots/8-03.7.png)
-![Скриншот 8-03.8](screenshots/8-03.8.png)
-![Скриншот 8-03.9](screenshots/8-03.9.png)
+![Скриншот 8-03_5](screenshots/8-03_5.png)
+![Скриншот 8-03_6](screenshots/8-03_6.png)
+![Скриншот 8-03_7](screenshots/8-03_7.png)
+![Скриншот 8-03_8](screenshots/8-03_8.png)
+![Скриншот 8-03_9](screenshots/8-03_9.png)
 
 *wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_6.0+debian11_all.deb*  
 *dpkg -i zabbix-release_latest_6.0+debian11_all.deb*  
