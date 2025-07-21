@@ -42,14 +42,14 @@
 ![Скриншот 8-03.3](screenshots/8-03.3.png)
 ![Скриншот 8-03.4](screenshots/8-03.4.png)
 
-*wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_6.0+debian11_all.deb*
-*dpkg -i zabbix-release_latest_6.0+debian11_all.deb*
-*apt update*
-*apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent*
-*sudo -u postgres createuser --pwprompt zabbix*
-*zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix*
-*systemctl restart zabbix-server zabbix-agent apache2*
-*systemctl enable zabbix-server zabbix-agent apache2*
+*wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_6.0+debian11_all.deb*  
+*dpkg -i zabbix-release_latest_6.0+debian11_all.deb*  
+*apt update*  
+*apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent*  
+*sudo -u postgres createuser --pwprompt zabbix*  
+*zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix*  
+*systemctl restart zabbix-server zabbix-agent apache2*  
+*systemctl enable zabbix-server zabbix-agent apache2*  
 
 ---
 
@@ -78,10 +78,9 @@
 ![Скриншот 8-03.8](screenshots/8-03.8.png)
 ![Скриншот 8-03.9](screenshots/8-03.9.png)
 
-*wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_6.0+debian11_all.deb*
-*dpkg -i zabbix-release_latest_6.0+debian11_all.deb*
-*apt update*
-*apt install zabbix-agent*
-*systemctl restart zabbix-agent*
-*systemctl enable zabbix-agent*
-
+*wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_latest_6.0+debian11_all.deb*  
+*dpkg -i zabbix-release_latest_6.0+debian11_all.deb*  
+*apt update*  
+*apt install zabbix-agent*  
+*systemctl restart zabbix-agent*  
+*systemctl enable zabbix-agent*  
