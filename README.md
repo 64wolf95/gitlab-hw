@@ -34,7 +34,7 @@
 ### Решение
 
 ![Скриншот 1.1](screenshots/1.1.png)
-![Скриншот 1.2](screenshots/1.2.png)
+![Скриншот 1.2](screenshots/1.2.png)  
 [Конфигурационный файл haproxy](https://github.com/64wolf95/gitlab-hw/blob/main/screenshots/haproxy_1.cfg)
 
 ---
@@ -51,5 +51,6 @@
 
 ### Решение
 
+![Скриншот 2.0](screenshots/2.0.png)
 ![Скриншот 2.1](screenshots/2.1.png)
 [Конфигурационный файл haproxy](https://github.com/64wolf95/gitlab-hw/blob/main/screenshots/haproxy_2.cfg)
