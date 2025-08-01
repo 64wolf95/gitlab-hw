@@ -37,7 +37,7 @@
 ![Скриншот 1.1](screenshots/1.1.jpg)
 ![Скриншот 1.2](screenshots/1.2.jpg)
 ![Скриншот 1.3](screenshots/1.3.jpg)
-![Получившаяся схема в формате pkt](screenshots/tesaev_hsrp_advanced.pkt)
+[Получившаяся схема в формате pkt](https://github.com/64wolf95/gitlab-hw/blob/main/screenshots/check_web.sh)
 
 ---
 
