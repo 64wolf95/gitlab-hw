@@ -59,6 +59,6 @@
 ![Скриншот 2.3](screenshots/2.3.png)
 ![Скриншот 2.4](screenshots/2.4.png)
 ![Скриншот 2.5](screenshots/2.5.png)
-[Получившейся bash-скрипт](https://github.com/64wolf95/gitlab-hw/blob/main/screenshots/check_web.sh)
-[Получившейся конфигурационный файл keepalived_1](https://github.com/64wolf95/gitlab-hw/blob/main/screenshots/keepalived_1.conf)
+[Получившейся bash-скрипт](https://github.com/64wolf95/gitlab-hw/blob/main/screenshots/check_web.sh)  
+[Получившейся конфигурационный файл keepalived_1](https://github.com/64wolf95/gitlab-hw/blob/main/screenshots/keepalived_1.conf)  
 [Получившейся конфигурационный файл keepalived_2](https://github.com/64wolf95/gitlab-hw/blob/main/screenshots/keepalived_2.conf)
