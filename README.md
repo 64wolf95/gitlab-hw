@@ -43,7 +43,7 @@
 
 ### Решение
 
-![Terraform Playbook:](screenshots/main.tf)
+[Terraform Playbook:](screenshots/main.tf)
 
 ---
 
