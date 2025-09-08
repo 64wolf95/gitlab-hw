@@ -63,7 +63,7 @@
 
 ### Решение
 
-[screenshot](screenshot/3.1.png)
+![screenshot](screenshots/3.1.png)
 
 ---
 
@@ -75,4 +75,4 @@
 
 ### Решение
 
-[screenshot](screenshot/4.1.png)
+![screenshot](screenshots/4.1.png)
