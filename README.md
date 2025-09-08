@@ -51,7 +51,7 @@
 
 ### Решение
 
-[screenshot](screenshot/2.1)
+[screenshot](screenshot/2.1.png)
 
 ---
 
@@ -63,7 +63,7 @@
 
 ### Решение
 
-[screenshot](screenshot/3.1)
+[screenshot](screenshot/3.1.png)
 
 ---
 
@@ -75,4 +75,4 @@
 
 ### Решение
 
-[screenshot](screenshot/4.1)
+[screenshot](screenshot/4.1.png)
