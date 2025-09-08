@@ -51,7 +51,7 @@
 
 ### Решение
 
-[screenshot](screenshot/2.1.png)
+![screenshot](screenshots/2.1.png)
 
 ---
 
