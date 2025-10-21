@@ -91,5 +91,5 @@
 
 ---
 
-![screenshot](screenshots/2.0.png)
+![screenshot](screenshots/2.1.png)
 
