@@ -30,11 +30,11 @@
 
 ### Решение
 
-[screen](screenshots/1.1.png)
-[screen](screenshots/1.2.png)
-[screen](screenshots/1.3.png)
-[screen](screenshots/1.4.png)
-[screen](screenshots/1.5.png)
+![screen](screenshots/1.1.png)
+![screen](screenshots/1.2.png)
+![screen](screenshots/1.3.png)
+![screen](screenshots/1.4.png)
+![screen](screenshots/1.5.png)
 
 ---
 
